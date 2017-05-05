@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: eca3bea2961904cc6964c270892dab46
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - son_tir: {fileID: 8300000, guid: 2b4917d70de2c4d88bcc3d1b8112e149, type: 3}
+  - sparkls: {fileID: 400000, guid: c994fde8e6848a3771503f184e0c9cb4, type: 2}
+  - impact: {fileID: 400000, guid: 9144c2a74037d4c2d8e88fe348c27869, type: 2}
+  - joueur: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
